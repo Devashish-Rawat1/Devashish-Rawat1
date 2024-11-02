@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## About Me
-Hi, I'm [Your Name], a Computer Science student with a passion for technology and problem-solving. I have experience in:
+Hi, I'm Devashish Rawat, a Computer Science student with a passion for technology and problem-solving. I have experience in:
 - **Programming Languages**: C++
 - **Core Skills**: Data Structures and Algorithms (DSA)
 - **Web Development**: Frontend and Backend development
