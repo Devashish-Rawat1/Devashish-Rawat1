@@ -16,7 +16,7 @@ I enjoy working on projects that blend creativity with technical skill. Some of 
 ## Tech Stack
 - **Languages**: C++, HTML/CSS, JavaScript
 - **Frameworks/Libraries**: [e.g., React, Node.js, etc.]
-- **Tools**: Git, VS Code, [other tools you use]
+- **Tools**: Git, VS Code etc
 
 ## What I’m Currently Learning
 - Advanced algorithms and problem-solving techniques
