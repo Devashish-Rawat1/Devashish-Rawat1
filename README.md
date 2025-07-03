@@ -10,11 +10,11 @@ I'm always excited to learn new technologies and take on projects that challenge
 
 ## My Projects
 I enjoy working on projects that blend creativity with technical skill. Some of my recent projects include:
-- **[Project Name 1]**: [Brief description and tech stack]
-- **[Project Name 2]**: [Brief description and tech stack]
+- **TravelAdobe**: [Brief description and tech stack]
+- **Path-To-Anime**: [Brief description and tech stack]
 
 ## Tech Stack
-- **Languages**: C++, HTML/CSS, JavaScript
+- **Languages**: C++, HTML/CSS, JavaScript ,Python
 - **Frameworks/Libraries**: [e.g., React, Node.js, etc.]
 - **Tools**: Git, VS Code etc
 
