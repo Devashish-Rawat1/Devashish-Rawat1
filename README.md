@@ -10,8 +10,8 @@ I'm always excited to learn new technologies and take on projects that challenge
 
 ## My Projects
 I enjoy working on projects that blend creativity with technical skill. Some of my recent projects include:
-- **TravelAdobe**: [Brief description and tech stack]
-- **Path-To-Anime**: [Brief description and tech stack]
+- **TravelAdobe**: Full-stack Rental booking Web App.
+- **Path-To-Anime**: Anime Discovery Chrome Extension.
 
 ## Tech Stack
 - **Languages**: C++, HTML/CSS, JavaScript ,Python
@@ -24,7 +24,6 @@ I enjoy working on projects that blend creativity with technical skill. Some of 
 
 ## Connect with Me
 - [LinkedIn](www.linkedin.com/in/devashish-rawat-59786a284)
-- [Portfolio Website](your-portfolio-url, if available)
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
 
