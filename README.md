@@ -2,7 +2,7 @@
 
 ## About Me
 Hi, I'm Devashish Rawat, a Computer Science student with a passion for technology and problem-solving. I have experience in:
-- **Programming Languages**: C++
+- **Programming Languages**: C++, Python, JavaScript
 - **Core Skills**: Data Structures and Algorithms (DSA)
 - **Web Development**: Frontend and Backend development
 
@@ -16,7 +16,7 @@ I enjoy working on projects that blend creativity with technical skill. Some of 
 ## Tech Stack
 - **Languages**: C++, HTML/CSS, JavaScript ,Python
 - **Frameworks/Libraries**: [e.g., React, Node.js, etc.]
-- **Tools**: Git, VS Code etc
+- **Tools**: Git, VS Code,Jupyter Notebook etc
 
 ## What I’m Currently Learning
 - Advanced algorithms and problem-solving techniques
