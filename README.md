@@ -20,7 +20,7 @@ I enjoy working on projects that blend creativity with technical skill. Some of 
 
 ## What I’m Currently Learning
 - Advanced algorithms and problem-solving techniques
-- Modern frameworks for full-stack web development
+- Machine Learning Alogorithms
 
 ## Connect with Me
 - [LinkedIn](www.linkedin.com/in/devashish-rawat-59786a284)
