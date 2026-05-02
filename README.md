@@ -4,7 +4,7 @@
 
 ### Data Scientist · ML Engineer · Builder of Things That Actually Work
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions.;ML+%7C+Deep+Learning+%7C+Computer+Vision;Building+end-to-end+ML+systems+since+day+one.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions.;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+end-to-end+ML+systems+since+day+one.)](https://git.io/typing-svg)
 
 </div>
 
