@@ -17,7 +17,7 @@ devashish = {
     "role"      : "Data Scientist / ML Engineer",
     "focus"     : ["Forecasting & Optimization", "Computer Vision", "Deep Learning"],
     "currently" : "Building production-ready ML pipelines & CV systems",
-    "fun_fact"  : "I also shipped a Chrome Extension with 2K+ users 🎌",
+    "fun_fact"  : "I also shipped a Chrome Extension on Chrome Store",
 }
 ```
 
