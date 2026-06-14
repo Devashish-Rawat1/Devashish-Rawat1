@@ -83,9 +83,10 @@ A full-featured Chrome Extension (Manifest V3) for anime discovery. Smart filter
 $ git status
 On branch main
 Changes staged for commit:
-  - new_project_1.py  [NLP pipeline]
-  - new_project_2.py  [Generative AI]
-  - new_project_3.py  [MLOps tooling]
+  - new_project_1.py  [Anomaly Detection]
+  - new_project_2.py  [NLP pipeline]
+  - new_project_3.py  [Generative AI]
+  - new_project_4.py  [MLOps tooling]
 
 Stay tuned. 👀
 ```
