@@ -30,34 +30,6 @@ devashish = {
 <td width="50%" valign="top">
 
 ### 📦 [DemandSense](https://github.com/Devashish-Rawat1/DemandSense)
-**ML-Powered Demand Forecasting & Inventory Optimization**
-
-End-to-end retail intelligence system — from raw sales data to actionable inventory decisions. Trained 4 models on 913K rows of retail history, deployed as an interactive dashboard.
-
--  Best model: **XGBoost** (RMSE 7.91 / MAPE 12.44%)
--  SHAP explainability for business-ready insights
--  EOQ, Safety Stock & Reorder Point planner
--  Batch prediction via CSV upload
--  Live on [Streamlit Cloud](https://e-commerce-demand-forecasting-mjlqjwbeigqfx8abcq8mua.streamlit.app/)
-
-`XGBoost` `LightGBM` `LSTM` `SHAP` `Streamlit` `Plotly` `Pandas`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [StyleFusion-HF](https://github.com/Devashish-Rawat1/StyleFusion-HF)
-**Real-Time Neural Style Transfer via AdaIN**
-
-Implemented the Huang & Belongie (2017) AdaIN architecture from scratch. VGG-19 encoder extracts features; a custom decoder reconstructs stylized images. Two-phase training curriculum on Kaggle.
----
-
-## `⚡ Featured Projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 [DemandSense](https://github.com/Devashish-Rawat1/DemandSense)
 
 **ML-Powered Demand Forecasting & Inventory Optimization**
 
