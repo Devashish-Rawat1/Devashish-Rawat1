@@ -78,18 +78,16 @@ A full-featured Chrome Extension (Manifest V3) for anime discovery. Smart filter
 <td width="50%" valign="top">
 
 ### 🚗 [CarScope-AI](https://github.com/Devashish-Rawat1/CarScope-AI)
-**Ensemble Anomaly Detection for Used Car Fraud Analysis**
+**Anomaly Detection for Used Car Fraud Analysis**
 
-Built an end-to-end machine learning system to detect suspicious listings and pricing anomalies in the Indian used car market. Combines supervised price residual analysis with unsupervised anomaly detection models for robust fraud identification.
+End-to-end machine learning pipeline and Streamlit app for used car price prediction, anomaly detection, and fraud analysis in the Indian automotive market.
 
 -  XGBoost-based fair market price estimation
 -  Isolation Forest for global anomaly detection
 -  Local Outlier Factor (LOF) for density-based outlier analysis
 -  Interactive 3D PCA visualization of anomaly clusters
--  Real-time anomaly scoring through a Streamlit dashboard
--  Deployed on **Processing...**
 
-`Python` `XGBoost` `Scikit-Learn` `Isolation Forest` `LOF` `PCA` `Streamlit` `Anomaly Detection` `Machine Learning`
+ `XGBoost` `Scikit-Learn` `Isolation Forest` `LOF` `PCA` `Anomaly Detection`
 
 </td>
 <td width="50%" valign="top">
