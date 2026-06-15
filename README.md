@@ -49,11 +49,41 @@ End-to-end retail intelligence system — from raw sales data to actionable inve
 **Real-Time Neural Style Transfer via AdaIN**
 
 Implemented the Huang & Belongie (2017) AdaIN architecture from scratch. VGG-19 encoder extracts features; a custom decoder reconstructs stylized images. Two-phase training curriculum on Kaggle.
+---
 
--  Arbitrary content + style image pairs
--  Alpha slider to control stylization intensity
--  Real-time inference via Gradio
--  Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/Drazan/StyleFusion-HF)
+## `⚡ Featured Projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [DemandSense](https://github.com/Devashish-Rawat1/DemandSense)
+
+**ML-Powered Demand Forecasting & Inventory Optimization**
+
+End-to-end retail intelligence system — from raw sales data to actionable inventory decisions. Trained 4 models on 913K rows of retail history, deployed as an interactive dashboard.
+
+- Best model: **XGBoost** (RMSE 7.91 / MAPE 12.44%)
+- SHAP explainability for business-ready insights
+- EOQ, Safety Stock & Reorder Point planner
+- Batch prediction via CSV upload
+- Live on [Streamlit Cloud](https://e-commerce-demand-forecasting-mjlqjwbeigqfx8abcq8mua.streamlit.app/)
+
+`XGBoost` `LightGBM` `LSTM` `SHAP` `Streamlit` `Plotly` `Pandas`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [StyleFusion-HF](https://github.com/Devashish-Rawat1/StyleFusion-HF)
+
+**Real-Time Neural Style Transfer via AdaIN**
+
+Implemented the Huang & Belongie (2017) AdaIN architecture from scratch. VGG-19 encoder extracts features; a custom decoder reconstructs stylized images. Two-phase training curriculum on Kaggle.
+
+- Arbitrary content + style image pairs
+- Alpha slider to control stylization intensity
+- Real-time inference via Gradio
+- Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/Drazan/StyleFusion-HF)
 
 `PyTorch` `VGG-19` `AdaIN` `Gradio` `Hugging Face` `Computer Vision`
 
@@ -63,14 +93,15 @@ Implemented the Huang & Belongie (2017) AdaIN architecture from scratch. VGG-19 
 <td width="50%" valign="top">
 
 ### ⭐ [Path-To-Anime](https://github.com/Devashish-Rawat1/Path-To-Anime-v1.1)
+
 **Chrome Extension — Anime Discovery Companion**
 
 A full-featured Chrome Extension (Manifest V3) for anime discovery. Smart filters by genre, rating, episode count; streaming platform links; personalized recommendations; and a personal watchlist.
 
--  Smart multi-filter search engine
--  Direct links to Netflix, Crunchyroll, HiDive
--  Published on [Chrome Web Store](https://chromewebstore.google.com/detail/path-to-anime/hmkdpjckcgcmhbdpiimkaddjhhfcgbpg)
--  My Anime List with shareable watchlists
+- Smart multi-filter search engine
+- Direct links to Netflix, Crunchyroll, HiDive
+- Published on [Chrome Web Store](https://chromewebstore.google.com/detail/path-to-anime/hmkdpjckcgcmhbdpiimkaddjhhfcgbpg)
+- My Anime List with shareable watchlists
 
 `JavaScript` `HTML` `CSS` `Chrome Extension` `Manifest V3`
 
@@ -78,23 +109,26 @@ A full-featured Chrome Extension (Manifest V3) for anime discovery. Smart filter
 <td width="50%" valign="top">
 
 ### 🚗 [CarScope-AI](https://github.com/Devashish-Rawat1/CarScope-AI)
+
 **Anomaly Detection for Used Car Fraud Analysis**
 
 End-to-end machine learning pipeline and Streamlit app for used car price prediction, anomaly detection, and fraud analysis in the Indian automotive market.
 
--  XGBoost-based fair market price estimation
--  Isolation Forest for global anomaly detection
--  Local Outlier Factor (LOF) for density-based outlier analysis
--  Interactive 3D PCA visualization of anomaly clusters
+- XGBoost-based fair market price estimation
+- Isolation Forest for global anomaly detection
+- Local Outlier Factor (LOF) for density-based outlier analysis
+- Interactive 3D PCA visualization of anomaly clusters
 
- `XGBoost` `Scikit-Learn` `Isolation Forest` `LOF` `PCA` `Anomaly Detection`
+`XGBoost` `Scikit-Learn` `Isolation Forest` `LOF` `PCA` `Anomaly Detection`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### `// more in the works...`
 
-```bash
+<pre>
 $ git status
 On branch main
 Changes staged for commit:
@@ -104,7 +138,7 @@ Changes staged for commit:
   - new_project_4.py  [MLOps tooling]
 
 Stay tuned. 👀
-```
+</pre>
 
 </td>
 </tr>
