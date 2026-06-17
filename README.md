@@ -104,8 +104,8 @@ End-to-end machine learning pipeline and Streamlit app for used car price predic
 $ git status
 On branch main
 Changes staged for commit:
-  - new_project_1.py  [Anomaly Detection]
-  - new_project_2.py  [NLP pipeline]
+  - new_project_1.py  [Agentic AI]
+  - new_project_2.py  [LLM powered application]
   - new_project_3.py  [Generative AI]
   - new_project_4.py  [MLOps tooling]
 
