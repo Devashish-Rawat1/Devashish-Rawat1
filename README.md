@@ -86,9 +86,9 @@ A full-featured Chrome Extension (Manifest V3) for anime discovery. Smart filter
 
 End-to-end machine learning pipeline and Streamlit app for used car price prediction, anomaly detection, and fraud analysis in the Indian automotive market.
 
+- Multi-Model Consensus system flags high-confidence fraud using a majority-voting
 - XGBoost-based fair market price estimation
-- Isolation Forest for global anomaly detection
-- Local Outlier Factor (LOF) for density-based outlier analysis
+- Isolation Forest, Local Outlier Factor and DBSCAN for anomaly detection
 - Interactive 3D PCA visualization of anomaly clusters
 - Live on [Streamlit Cloud](https://carscope-ai-hmrqvpiry8ewehhz3kvevw.streamlit.app/)
 
