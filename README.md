@@ -90,6 +90,7 @@ End-to-end machine learning pipeline and Streamlit app for used car price predic
 - Isolation Forest for global anomaly detection
 - Local Outlier Factor (LOF) for density-based outlier analysis
 - Interactive 3D PCA visualization of anomaly clusters
+- - Live on [Streamlit Cloud](https://carscope-ai-hmrqvpiry8ewehhz3kvevw.streamlit.app/)
 
 `XGBoost` `Scikit-Learn` `Isolation Forest` `LOF` `PCA` `Anomaly Detection`
 
